@@ -1,3 +1,3 @@
 class Procesador:
-    def procesar(self):
-        pass
+    def procesar(self,lista):
+        return 0
