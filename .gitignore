@@ -87,3 +87,6 @@ ENV/
 
 # Rope project settings
 .ropeproject
+*.xml
+.idea/TTD-Kata-01.iml
+.idea/workspace.xml___jb_tmp___
